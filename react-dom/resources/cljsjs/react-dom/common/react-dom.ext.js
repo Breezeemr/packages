@@ -86,6 +86,14 @@ var ReactDOMServer = {};
 
 
 /**
+ * The current version of ReactDOMServer.
+ *
+ * @type {string}
+ * @const
+ */
+ReactDOMServer.version;
+
+/**
  * Render a ReactElement to its initial HTML.
  *
  * @param {React.ReactElement} element
