@@ -10,7 +10,7 @@
   '[boot.util :refer [sh]])
 
 (def +lib-version+ "0.20.3")
-(def +version+ (str +lib-version+ "-t1"))
+(def +version+ (str +lib-version+ "-t2"))
 #_(def +lib-folder+ (format "react-big-calendar-%s" +lib-version+))
 
 (def +lib-folder+ "react-big-calendar-master")
